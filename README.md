@@ -7,29 +7,9 @@ Repositório dedicado a materiais de pesquisa e metodologia científica em Portu
 ### Design Science (pt-BR)
 Material didático completo sobre **Design Science Research** — uma perspectiva rigorosa de pesquisa onde você investiga sistematicamente como **construir artefatos que resolvem problemas práticos** de forma cientificamente válida.
 
-#### Arquivos:
-
-- **README.md** — Índice e guia de uso do material completo
-- **material_completo.md** — Conteúdo principal em 8 partes (fundamentos, metodologia, avaliação, etc.)
-- **exercicios_praticos.md** — 7 exercícios estruturados com respostas esperadas
-- **glossario_dsr.md** — Dicionário de 30+ termos-chave
-- **estudos_de_caso.md** — 3 casos completos de pesquisa DSR no mundo real
-- **estrutura_dissertacao_tese.md** — Guia prático para estruturar dissertações e teses
-- **ementa.md** — Ementa original que fundamentou o material
-
-#### Características:
-
-✅ Prosa acadêmica corrida sem excesso de bullets  
-✅ Diagramas Mermaid para visualizar conceitos  
-✅ Exemplos concretos completamente desenvolvidos  
-✅ Referências acadêmicas (Simon, Hevner, Peffers, Gregor, Storey)  
-✅ Exercícios práticos com orientações  
-✅ Estudos de caso do mundo real (SOC de segurança, sistemas humano-IA, onboarding)  
-✅ Guias de estruturação para dissertação e tese  
-
 #### Público-Alvo:
 
-- Alunos de mestrado e doutorado em Computação e Engenharia
+- Alunos de graduação, mestrado e doutorado em Computação e Engenharia
 - Pesquisadores conduzindo Design Science Research
 - Professores ministrando disciplinas de pesquisa e metodologia
 - Profissionais que querem rigor científico ao construir artefatos
@@ -102,5 +82,5 @@ Semana 10+  → Projeto próprio de pesquisa DSR
 ---
 
 *Última atualização: 2026-09-18*  
-*Autoria: Carlos Quintella (intelliurb@gmail.com)*  
+*Autoria: Carlos Quintella (caq@intelliurb.com)*  
 *Baseado em literatura de Hevner, Peffers, Gregor e pesquisa contemporânea em Design Science Research*
